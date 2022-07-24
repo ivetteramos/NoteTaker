@@ -9,7 +9,7 @@ app.use(express.urlencoded({
 }));
 app.use(express.static('public'));
 
-const apiRoutes = require('./routes/UserRoutes');
+const apiRoutes = require('./routes/routes');
 app.use('/api', apiRoutes);
 
 app.listen(PORT, () =>  console.log("app listening at http://localhost:3001"));
