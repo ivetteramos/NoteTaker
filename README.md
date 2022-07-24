@@ -12,4 +12,4 @@ Github Link [https://github.com/ivetteramos/NoteTaker]
 
 
 # Screenshot
-Screenshot of website ![](/Images/Screenshot.png)
+Screenshot of website ![](/images/Screenshot.png)
